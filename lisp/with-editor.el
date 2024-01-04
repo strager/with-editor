@@ -78,7 +78,7 @@
 ;;; Code:
 
 (require 'cl-lib)
-(require 'compat)
+;(require 'compat)
 (require 'server)
 (require 'shell)
 (eval-when-compile (require 'subr-x))
